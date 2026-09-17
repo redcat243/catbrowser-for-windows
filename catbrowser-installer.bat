@@ -56,4 +56,5 @@ echo Cleaning up installer environment...
 rmdir /s /q "%TEMP_DIR%"
 
 echo Setup complete! CatBrowser is installed and available on your Desktop.
+echo Result = MsgBox("check for a blank thing in the tray icons that you can hover over click that to go back to the catbrowser home.",33,"Catbrowser Installer") > "%WARN_VBS%"
 pause
