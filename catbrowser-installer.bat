@@ -4,7 +4,7 @@ setlocal EnableDelayedExpansion
 set "INSTALL_DIR=%ProgramFiles%\CatBrowser"
 set "DESKTOP_DIR=%PUBLIC%\Desktop"
 set "TEMP_DIR=%TEMP%\CatBrowserInstaller"
-set "RELEASE_URL=https://github.com/redcat243/githubactionstuff/releases/download/e/Catbrowser-Windows.zip"
+set "RELEASE_URL=https://github.com/redcat243/githubactionstuff/releases/download/ee/Catbrowser-Windows.zip"
 
 :: 1. Display VBScript GUI Warning Popup
 mkdir "%TEMP_DIR%" 2>nul
