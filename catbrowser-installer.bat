@@ -58,4 +58,5 @@ rmdir /s /q "%TEMP_DIR%"
 echo Setup complete! CatBrowser is installed and available on your Desktop.
 echo check for a blank thing in the tray icons that you can hover over click that to go back to the catbrowser home.
 echo right click to go foward and back.
+echo copy this and paste it into file explorer to see about catbrowser C:\Users\replacethiswithyourusername\Program Files\Catbrowser and click sammy.html to see about catbrowser.
 pause
